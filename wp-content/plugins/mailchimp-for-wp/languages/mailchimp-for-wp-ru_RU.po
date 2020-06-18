@@ -1,7 +1,6 @@
 # Copyright (C) 2015 MailChimp for WordPress
 # This file is distributed under the same license as the MailChimp for WordPress package.
 # Translators:
-# Alex Starshyn <nudnyj@gmail.com>, 2015
 # Al Po <digows@gmail.com>, 2015
 # Danny van Kooten <dannyvankooten@gmail.com>, 2015
 # dmitry <d1mas@msn.com>, 2015
